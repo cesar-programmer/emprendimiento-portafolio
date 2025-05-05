@@ -24,28 +24,23 @@ export function Header({ studentName, studentId, courseName, teacherName }) {
         <div className="container mx-auto px-4">
           <ul className="flex flex-wrap justify-center md:justify-start space-x-1 md:space-x-4 py-3 text-sm">
             <li>
-              <a href="#introduccion" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
-                Introducción
+              <a href="#meta1" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Meta 1
               </a>
             </li>
             <li>
-              <a href="#estimacion" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
-                Estimación
+              <a href="#meta2" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Meta 2
               </a>
             </li>
             <li>
-              <a href="#gestion" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
-                Gestión
+              <a href="#meta3" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Meta 3
               </a>
             </li>
             <li>
-              <a href="#comercializacion" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
-                Comercialización
-              </a>
-            </li>
-            <li>
-              <a href="#comunicacion" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
-                Comunicación
+              <a href="#meta4" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Meta 4
               </a>
             </li>
           </ul>
