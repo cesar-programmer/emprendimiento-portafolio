@@ -109,6 +109,32 @@ function App() {
       reflection:
         "Diseñé un plan de financiamiento mixto adaptado a las necesidades de Secure Vision AI. Aprendí a preparar la documentación requerida y establecer pasos concretos para acceder a fondos públicos y privados. Esta práctica me ayudó a estructurar una estrategia clara para obtener recursos y ejecutar el proyecto.",
     },
+    {
+      id: "meta5",
+      title: "Meta 5.1 - Version 1 del catálogo o demostración digital de productos y/o servicios de una empresa",
+      description: "El objetivo de esta actividad es la estructuración de un plan de comunicación de negocios efectivo, utilizando estrategias de difusión y mercadotecnia digital para aumentar la visibilidad de los productos o servicios que ofrecen con su proyecto de emprendimiento, todo ello con una actitud creativa, proactiva y respetuosa.",
+      links: [
+        {
+          title: "Práctica 5.1",
+          url: "https://drive.google.com/drive/u/0/folders/1Rv-UeW6CMcqfZnDJtZeWJRyxSPWs4Wlc",
+        },
+      ],
+      reflection:
+        "La primera versión del documento correspondiente a la Meta 5.1, que incluye la planeación, investigación y estructura inicial del catálogo digital, incluí toda la planificación, ideas y estructura que voy a seguir para desarrollar el catálogo, el video y los materiales finales",
+    },
+    {
+      id: "meta5",
+      title: "Meta 5.2 - Documento con con el plan de mercadotecnia digital",
+      description: "El objetivo de este ejercicio es desarrollar un plan de mercadotecnia digital para el negocio de software que están emprendiendo tomando como base los documentos ya realizados durante el curso. ",
+      links: [
+        {
+          title: "Práctica 5.2",
+          url: "https://drive.google.com/drive/u/0/folders/16YBNbs2p4CgR0x9aLN6Z2vGvqe8xBBL0",
+        },
+      ],
+      reflection:
+        "Diseñé un plan  digital ofrece una guía estructurada para posicionar Secure Vision AI en el mercado de la construcción inteligente. Mediante contenido de valor, segmentación precisa y estrategias de difusión accesibles, se espera no solo generar visibilidad, sino también captar clientes de calidad.",
+    },
   ];
   
   
