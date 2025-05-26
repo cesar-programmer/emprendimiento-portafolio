@@ -42,6 +42,9 @@ export function Header({ studentName, studentId, courseName, teacherName }) {
               <a href="#meta4" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
                 Meta 4
               </a>
+              <a href="#meta5" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Meta 5
+              </a>
             </li>
           </ul>
         </div>
