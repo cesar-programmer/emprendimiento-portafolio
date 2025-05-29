@@ -45,6 +45,9 @@ export function Header({ studentName, studentId, courseName, teacherName }) {
               <a href="#meta5" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
                 Meta 5
               </a>
+              <a href="#catalogo" className="px-3 py-2 rounded hover:bg-green-700 transition-colors">
+                Catalogo digital
+              </a>
             </li>
           </ul>
         </div>

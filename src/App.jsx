@@ -135,6 +135,19 @@ function App() {
       reflection:
         "Diseñé un plan  digital ofrece una guía estructurada para posicionar Secure Vision AI en el mercado de la construcción inteligente. Mediante contenido de valor, segmentación precisa y estrategias de difusión accesibles, se espera no solo generar visibilidad, sino también captar clientes de calidad.",
     },
+    {
+      id: "catalogo",
+      title: "Catálogo Digital de Secure Vision AI",
+      description: "El objetivo de este ejercicio es desarrollar un plan de mercadotecnia digital para el negocio de software que están emprendiendo tomando como base los documentos ya realizados durante el curso. ",
+      links: [
+        {
+          title: "Catálogo Digital",
+          url: "https://drive.google.com/drive/u/0/folders/1__ftHF41w3YWQ3j0umxZkL80u5GBOjpE",
+        },
+      ],
+      reflection:
+        "El desarrollo de Secure Vision AI representa una solución innovadora y necesaria para el sector de la construcción, al integrar inteligencia artificial y visión por computadora para garantizar el uso correcto de Equipos de Protección Personal (EPP). A lo largo del proyecto, se identificaron oportunidades reales de mejora en la supervisión de obras, reducción de accidentes y cumplimiento normativo.",
+    },
   ];
   
   
